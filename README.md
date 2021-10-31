@@ -2,13 +2,8 @@
   ContosoPizza API 👋
 </h1>
 <h1 align="center">
- <img alt="ContosoPizza API" height="100" title="" src="https://i.imgur.com/JB8ExVZ.png" />
+ <img alt="ContosoPizza API" height="100" title="" src="https://i.imgur.com/G05jhzp.png" />
 </h1>
-
-<p align="center">
-
- <img src="https://i.imgur.com/KazVzko.png" alt="APP"/>
-</p>
 
 ## 💻 Project
 
